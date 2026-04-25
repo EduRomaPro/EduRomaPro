@@ -1,1 +1,9 @@
-esto es un readme 2
+# Hola chavales👋
+
+Soy estudiante de programación/ingeniería de sistemas
+
+## Tecnologías que estoy aprendiendo
+
+- JavaScript
+- Python
+- Git
